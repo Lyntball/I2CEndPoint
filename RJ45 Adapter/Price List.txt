@@ -1,0 +1,13 @@
+Mouser PN:		Part Name:		Price	QTY:
+743-HT-193UY-5591 		- Yellow LED 		- $0.13	  1
+652-CR0603FX-82R0ELF 	-  82 ohm resistor 		- $0.10	  1
+743-HT-191URO 		- Red LED 		- $0.22	  1
+652-CR0201FW1500GLF  	- 150 ohm resistor 		- $0.25  	  2
+743-HT-193UYG-5592 	- Green LED 		- $0.10	  1
+710-615008137121 		- RJ45			- $1.49	  1
+571-282834-4 		- Screw Terminal (4 Way) 	- $2.65 	  2
+512-BSS138L	 	- BSS138 MOSFET 		- $0.22 	  4
+652-CR0603FX-1002ELF	-10K Ohm Resistor		-$0.10	  4
+			-PCB 			-$0.49	  1
+
+Total =  $9.61
